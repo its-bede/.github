@@ -1,0 +1,10 @@
+{
+  "name": "Rails AifinyoUtils Gem Check",
+  "description": "Check for Rails repos to check the installation of the AifinyoUtils gem.",
+  "iconName": "ruby",
+  "categories": ["Ruby", "Rails"],
+  "filePatterns": [
+    "Gemfile$",
+    "config/application.rb$"
+  ]
+}
